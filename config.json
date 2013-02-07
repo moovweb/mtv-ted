@@ -1,0 +1,12 @@
+{
+	"host_map": [
+    "$.ted.com => www.ted.com",
+    "$.ted.com => ted.com",
+    "$.auth.ted.com => auth.ted.com",
+    "$.blog.ted.com => blog.ted.com",
+    "$.ed.ted.com => ed.ted.com",
+    "$.images.ted.com => images.ted.com",
+    "$.media.ted.com => media.ted.com"
+	],
+	"user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25"
+}
